@@ -29,7 +29,7 @@ Check out my other project\[s\]:
 - [@insta_looter_bot](https://github.com/Nachtalb/insta_looter_bot) - Download images and videos from Instagram via 
 Telegram
 - [@reverse_image_search_bot](https://github.com/Nachtalb/reverse_image_search_bot) - Reverse image search directly in Telegram
-- [@yet_another_urban_dictionary_bot](https://t.me/yet_another_urban_dictionary_bot) - Urban Dictionary lookup directly in Telegram
+- [@yet_another_urban_dictionary_bot](https://github.com/Nachtalb/yet_another_urban_dictionary_bot) - Urban Dictionary lookup directly in Telegram
 
 
 ## Contributions
