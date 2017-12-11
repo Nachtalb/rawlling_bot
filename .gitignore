@@ -101,8 +101,7 @@ ENV/
 .mypy_cache/
 
 
-### Download as GIF
-download_as_gif/out/
-download_as_gif/source/
+### Rawlling Bot
 settings.py
-media/
+log/
+tmp/
